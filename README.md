@@ -1,7 +1,15 @@
 # Augmented Reality in Marker and Markerless environments
 
-## Requirements
-* Unity 2019.4.21f1
+For an overview of both the projects please have a look at [Overview.pdf](Overview.pdf)
 
-## Setup
-* Add calib.txt to out folder of aruco_unity.
+## ArUco Marker Tracking
+
+Overlay virtual objects on ArUco markers using OpenCV ArUco marker tracking functions and Unity. For more information see [marker_ar/README.md](marker_ar/README.md)
+
+![Marker - Man animation](images/aruco_man.gif)
+
+## Markerless AR using point cloud data
+
+Overlay virtual objects on user selected points using surface normals computed from point cloud data. Point cloud data is acquired using [Intel's depth camera](https://www.intel.com/content/www/us/en/architecture-and-technology/realsense-overview.html). For more information see [markerless_ar/README.md](markerless_ar/README.md)
+
+![Markerless](images/markerless.png)
