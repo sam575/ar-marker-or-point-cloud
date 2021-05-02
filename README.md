@@ -1,6 +1,6 @@
 # Augmented Reality in Marker and Markerless environments
 
-For an overview of both the projects please have a look at [Overview.pdf](Overview.pdf)
+For an overview of the process for both the projects please have a look at [Overview.pdf](Overview.pdf)
 
 ## ArUco Marker Tracking
 
