@@ -4,7 +4,7 @@ For an overview of both the projects please have a look at [Overview.pdf](Overvi
 
 ## ArUco Marker Tracking
 
-Overlay virtual objects on ArUco markers using OpenCV ArUco marker tracking functions and Unity. For more information see [marker_ar/README.md](marker_ar/README.md)
+Overlay virtual objects on ArUco markers using OpenCV and Unity. OpenCV is used for pose estimation and detection of markers. Unity is used for rendering complex virtual objects. For more information see [marker_ar/README.md](marker_ar/README.md)
 
 <p align="center">
   <img src="images/aruco_man.gif"/>
