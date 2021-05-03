@@ -9,7 +9,7 @@ Overlay virtual objects on ArUco markers using OpenCV ArUco marker tracking func
 
 ## Requirements
 * Unity 2019.4.21f1
-* OpenCV 4.5.0 (Refer [this](https://learnopencv.com/install-opencv-on-windows/) for installation.)
+* OpenCV 4.5.0 (Refer this [link](https://learnopencv.com/install-opencv-on-windows/) for installation.)
 * ipython notebook
 * Windows 10 (It should mostly work for Linux as well)
 
