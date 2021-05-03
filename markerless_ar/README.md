@@ -8,7 +8,7 @@ Overlay virtual objects on user selected points using surface normals computed f
 
 ## Requirements
 * [Intel RealSense SDK 2.0 (v2.44.0)](https://www.intelrealsense.com/sdk-2/)
-* OpenCV 4.5.0 (Refer [this](https://learnopencv.com/install-opencv-on-windows/) for installation)
+* OpenCV 4.5.0 (Refer this [link](https://learnopencv.com/install-opencv-on-windows/) for installation)
 * Visual Studio 2019
 * Windows
 
