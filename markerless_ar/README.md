@@ -14,7 +14,7 @@ Overlay virtual objects on user selected points using surface normals computed f
 
 ## Steps
 * Open `markerless_ar_v1.sln`.
-* Update the configuration in visual studio and `.props` files accordingly to use OpenCV and librealsense. Refer this [link](https://learnopencv.com/code-opencv-in-visual-studio/) to learn more about adding external dependencies to visual studio.
+* Update the configuration in visual studio and `.props` files accordingly to use OpenCV and librealsense. Refer this [link](https://learnopencv.com/code-opencv-in-visual-studio/) to learn about adding external dependencies to visual studio.
 * After the configuration is done, you can connect the [depth camera](https://www.intel.com/content/www/us/en/architecture-and-technology/realsense-overview.html) and click run in Visual studio.
 * Click points in the "Display Image" window. A cube will be overlaid on the clicked point according to the surface normal.
 * Two outputs with the virtual cube overlaid will be shown. One uses plane fitting on point clouds (`ppf_match_3d::computeNormalsPC3d`) and the other uses gradient response maps (`rgbd::RgbdNormals`).
