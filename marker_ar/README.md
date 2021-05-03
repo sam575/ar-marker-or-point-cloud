@@ -3,7 +3,7 @@
 Overlay virtual objects on ArUco markers using OpenCV ArUco marker tracking functions and Unity.
 
 <p align="center">
-  <img src="../images/marker_cube.jpg"/>
+  <img src="https://github.com/sam575/ar-marker-or-point-cloud/blob/master/images/marker_cube.JPG" width="400"/>
 </p>
 
 
