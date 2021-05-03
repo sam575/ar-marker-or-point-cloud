@@ -2,7 +2,10 @@
 
 Overlay virtual objects on ArUco markers using OpenCV ArUco marker tracking functions and Unity.
 
-![Marker - Man animation](../images/aruco_man.gif)
+<p align="center">
+  <img src="images/marker_cube.jpg"  width="600"/>
+</p>
+
 
 ## Requirements
 * Unity 2019.4.21f1
