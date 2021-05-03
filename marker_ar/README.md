@@ -6,7 +6,7 @@ Overlay virtual objects on ArUco markers using OpenCV ArUco marker tracking func
 
 ## Requirements
 * Unity 2019.4.21f1
-* OpenCV 4.5.0 (You can refer [this](https://learnopencv.com/install-opencv-on-windows/) for installation.)
+* OpenCV 4.5.0 (Refer [this](https://learnopencv.com/install-opencv-on-windows/) for installation.)
 * ipython notebook
 * Windows 10 (It should mostly work for Linux as well)
 
@@ -22,7 +22,7 @@ Overlay virtual objects on ArUco markers using OpenCV ArUco marker tracking func
 
 ## Troubleshooting
 * If you are not able to detect markers, check the rejected markers by running `opencv/aruco_unity.cpp` independently. Try flipping the image.
-* If `fx` is not close to `fy`, try using the physical camera option in Unity.
+* If `fx` is not close to `fy`, try using the physical camera option in Unity and update the fov in code accordingly.
 
 ## References
 * https://docs.opencv.org/master/d5/dae/tutorial_aruco_detection.html
