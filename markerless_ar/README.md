@@ -3,7 +3,7 @@
 Overlay virtual objects on user selected points using surface normals computed from point cloud data. Point cloud data is acquired using [Intel's depth camera](https://www.intel.com/content/www/us/en/architecture-and-technology/realsense-overview.html)
 
 <p align="center">
-  <img src="images/markerless_full.jpg"  width="600"/>
+  <img src="https://github.com/sam575/ar-marker-or-point-cloud/blob/master/images/markerless_full.JPG"  width="500"/>
 </p>
 
 ## Requirements
